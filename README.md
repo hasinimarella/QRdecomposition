@@ -55,7 +55,7 @@ QR_Decomposition(a)
 
 ## Output
 ``
-![Alt text](<QR decomposition.png>)
+![OUTPUT](<QR decomposition.png>)
 
 
 ``
